@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bab4437-3adf-46ba-b3d7-d6fcc1df83a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X4xHjaC8dcxKlAO7qX3Iac3zXm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.ValidateMe">
+    <configuration name="SMSExpander" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SMSExpander" />
+      <module name="PA05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalableDumbbell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScalableDumbbell" />
+      <module name="PA06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoLevelEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoLevelEncryption" />
+      <module name="PA06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpsideDownRightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpsideDownRightTriangle" />
+      <module name="PA06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidateMe" />
+      <module name="PA06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidateMe" />
+        <item itemvalue="Application.TwoLevelEncryption" />
+        <item itemvalue="Application.UpsideDownRightTriangle" />
+        <item itemvalue="Application.ScalableDumbbell" />
+        <item itemvalue="Application.SMSExpander" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bab4437-3adf-46ba-b3d7-d6fcc1df83a8" name="Default Changelist" comment="" />
+      <created>1580319082411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580319082411</updated>
+      <workItem from="1580319085479" duration="8158000" />
+      <workItem from="1580414503780" duration="2650000" />
+      <workItem from="1580491673604" duration="1417000" />
+      <workItem from="1580750094211" duration="15197000" />
+      <workItem from="1581959646734" duration="1071000" />
+      <workItem from="1582074267989" duration="2731000" />
+      <workItem from="1582097401130" duration="11465000" />
+      <workItem from="1582173595192" duration="7022000" />
+      <workItem from="1582564278847" duration="7634000" />
+      <workItem from="1582680165251" duration="15482000" />
+      <workItem from="1582832983646" duration="16293000" />
+      <workItem from="1584130957061" duration="748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="5" key="#Java" timestamp="1580333312128">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="234" y="5" key="#Java/0.0.1280.690@0.0.1280.690" timestamp="1580333312128" />
+    <state width="1237" height="193" key="GridCell.Tab.0.bottom" timestamp="1582869122822">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="193" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1582869122822" />
+    <state width="1237" height="193" key="GridCell.Tab.0.center" timestamp="1582869122822">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="193" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1582869122822" />
+    <state width="1237" height="193" key="GridCell.Tab.0.left" timestamp="1582869122822">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="193" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1582869122822" />
+    <state width="1237" height="193" key="GridCell.Tab.0.right" timestamp="1582869122822">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="193" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1582869122822" />
+    <state x="150" y="0" key="SettingsEditor" timestamp="1582135895241">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="150" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1582135895241" />
+    <state x="338" y="171" key="com.intellij.ide.util.TipDialog" timestamp="1584131106819">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="338" y="171" key="com.intellij.ide.util.TipDialog/0.0.1280.690@0.0.1280.690" timestamp="1584131106819" />
+    <state x="63" y="0" key="new project wizard" timestamp="1582135694481">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="63" y="0" key="new project wizard/0.0.1280.690@0.0.1280.690" timestamp="1582135694481" />
+    <state x="303" y="11" width="672" height="678" key="search.everywhere.popup" timestamp="1582569288115">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="303" y="11" width="672" height="678" key="search.everywhere.popup/0.0.1280.690@0.0.1280.690" timestamp="1582569288115" />
+  </component>
+</project>
